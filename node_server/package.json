@@ -1,0 +1,16 @@
+{
+  "name": "server_with_express",
+  "version": "1.0.0",
+  "description": "build website",
+  "main": "server_with_express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flyduck",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "mkdirp": "^1.0.4"
+  }
+}
